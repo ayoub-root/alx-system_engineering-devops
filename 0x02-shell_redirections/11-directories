@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep -v "^\./$\|^\.\.$"
+ls -At | head -n 10
